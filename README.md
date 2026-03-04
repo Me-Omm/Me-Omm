@@ -1,16 +1,17 @@
-## Hi there 👋
+# Om Mathpati
 
-<!--
-**Me-Omm/Me-Omm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech graduate in Information Technology with interests in software development, AI applications, and privacy-focused systems. I build web applications, experiment with machine learning models, and design user-centered digital products.
 
-Here are some ideas to get you started:
+## Tech Stack
+Python · JavaScript · React · Node.js · SQL · Flask · Electron · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- **Crypture** – Privacy-focused Tor browser with darknet content filtering  
+- **Movie Recommendation System** – Collaborative filtering using Restricted Boltzmann Machines  
+- **AI Chatbot** – Real-time conversational system using modern web technologies
+
+## Portfolio
+Dribbble: https://dribbble.com/Me_Omm
+
+## Contact
+GitHub: https://github.com/Me-Omm
